@@ -8,3 +8,11 @@ As messaging applications grow in popularity, chatbots are increasingly playing 
 On the business side, chatbots are most commonly used in customer contact centers to manage incoming communications and direct customers to the appropriate resource. They’re also frequently used for internal purposes, such as onboarding new employees and helping all employees with routine activities including vacation scheduling, training, ordering computers and business supplies, and other self-service activities that don’t require human intervention.
 
 On the consumer side, chatbots are performing a variety of customer services, ranging from ordering event tickets to booking and checking into hotels to comparing products and services. Chatbots are also commonly used to perform routine customer activities within the banking, retail, and food and beverage sectors. 
+
+
+# How to replicate the chatbot
+## Just follow the steps below:
+1)  git clone https://github.com/hdamanpreet26/chatbot.git
+2)  cd chatbot/
+3)  pip3 install -r requirements.txt
+4)  python3 app.py
